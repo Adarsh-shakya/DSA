@@ -38,6 +38,12 @@ public class _2DArray2 {
                 System.out.print(arr[i][j]+" ");
             }
             System.out.println();
+
+
         }
+        String str1="Lol";
+        String str2="lol";
+
+
     }
 }
